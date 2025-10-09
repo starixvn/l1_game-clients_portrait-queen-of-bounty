@@ -161,11 +161,11 @@
       "a": 255
     },
     "_skeletonData": {
-      "__uuid__": "00f9b2e7-3924-414d-b2c7-e5ae9a25ac24",
+      "__uuid__": "73daa66f-ec02-4f8d-b251-09823592b66e",
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "decor-loop-1",
+    "defaultAnimation": "",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 0,
