@@ -526,7 +526,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 196.805,
+      "y": 196.80499999999995,
       "z": 0
     },
     "_lrot": {
@@ -564,8 +564,8 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 500,
-      "height": 280
+      "width": 450,
+      "height": 250
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -642,7 +642,7 @@
     "_target": null,
     "_left": 0,
     "_right": 0,
-    "_top": -0.17361,
+    "_top": -0.14360999999999996,
     "_bottom": 0,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
@@ -748,7 +748,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -84.95700000000002,
+      "y": -52.87500000000003,
       "z": 0
     },
     "_lrot": {
@@ -1163,7 +1163,7 @@
     "_left": 0,
     "_right": 0,
     "_top": 0,
-    "_bottom": 0.2767886768447837,
+    "_bottom": 0.3298505089058524,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
     "_isAbsLeft": true,
@@ -1210,7 +1210,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -119.174,
+      "y": -82,
       "z": 0
     },
     "_lrot": {
@@ -1469,7 +1469,7 @@
     "_left": 0,
     "_right": 0,
     "_top": 0,
-    "_bottom": 0.22019567430025444,
+    "_bottom": 0.2816793893129771,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
     "_isAbsLeft": true,
@@ -1916,7 +1916,7 @@
     "_left": 0,
     "_right": 0,
     "_top": 0,
-    "_bottom": 0.27531795928753183,
+    "_bottom": 0.31953795928753176,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
     "_isAbsLeft": true,
@@ -1958,7 +1958,7 @@
     "value": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -83.39699999999999,
+      "y": -61.28700000000003,
       "z": 0
     }
   },
@@ -3054,7 +3054,7 @@
     "_left": 0,
     "_right": 0,
     "_top": 0,
-    "_bottom": 0.4595368956743002,
+    "_bottom": 0.5075368956743003,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
     "_isAbsLeft": true,
@@ -3096,7 +3096,7 @@
     "value": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -7.000000000000007,
+      "y": 17.00000000000002,
       "z": 0
     }
   },
