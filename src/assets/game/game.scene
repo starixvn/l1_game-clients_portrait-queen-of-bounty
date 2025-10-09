@@ -6751,7 +6751,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 91.49,
+      "width": 93.78,
       "height": 48
     },
     "_anchorPoint": {
@@ -6791,7 +6791,7 @@
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
-      "__uuid__": "f33f2903-ceb6-4044-b4a6-27b2ee06e5b1",
+      "__uuid__": "4851fdf9-404d-4ad7-92f2-96386ea41813",
       "__expectedType__": "cc.BitmapFont"
     },
     "_isSystemFontUsed": false,
