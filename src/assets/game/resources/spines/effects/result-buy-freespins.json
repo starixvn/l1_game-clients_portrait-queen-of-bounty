@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "SZ3wZP1mRx9As4Yyo3YfRx7tgaw",
+	"hash": "YrEfXcdWR00/BUNx9ehpLA8s7i4",
 	"spine": "3.8.99",
 	"x": -382,
 	"y": -315.95,
@@ -34,7 +34,7 @@
 	{ "name": "sparkle15", "parent": "canon_rt", "rotation": -16.36, "x": 193.25, "y": 51.89 },
 	{ "name": "sparkle16", "parent": "canon_lf", "rotation": -163.64, "x": -424.71, "y": 233.31 },
 	{ "name": "sparkle17", "parent": "canon_lf", "rotation": -163.64, "x": -424.71, "y": 233.31 },
-	{ "name": "text-number", "parent": "root", "y": -85.98 }
+	{ "name": "text-number", "parent": "root", "y": -92.05 }
 ],
 "slots": [
 	{ "name": "fs_light", "bone": "light", "attachment": "fs_light" },
@@ -808,6 +808,11 @@
 					{ "time": 1.6667, "x": 1.163, "y": 1.163, "curve": 0.25, "c3": 0.75 },
 					{ "time": 1.8, "x": 0.937, "y": 0.937, "curve": 0.25, "c3": 0.75 },
 					{ "time": 1.9333 }
+				]
+			},
+			"text-total-win": {
+				"translate": [
+					{ "y": -6.07 }
 				]
 			}
 		}
