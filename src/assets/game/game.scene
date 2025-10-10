@@ -4174,7 +4174,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 179.886,
-      "y": 323.165,
+      "y": 342.241,
       "z": 0
     },
     "_lrot": {
@@ -8559,9 +8559,6 @@
     "__prefab": null,
     "nodeFreeSpinsSections": {
       "__id__": 282
-    },
-    "nodeBetControls": {
-      "__id__": 278
     },
     "labelFreeSpinsCount": {
       "__id__": 290
