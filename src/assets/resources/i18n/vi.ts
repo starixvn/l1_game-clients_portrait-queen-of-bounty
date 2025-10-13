@@ -355,7 +355,7 @@ export const languages = {
         "mega_win": "Thắng Siêu Lớn",
         "multiplier": "Số Nhân",
         "multiplier_preview_odds": "Biểu tượng số nhân sẽ được áp dụng khi có kết quả thắng.",
-        "no_winning_combination": "Không Trúng",
+        "no_winning_combination": "Không Trúng Biểu Tượng Nào",
         "payout": "Trả Thưởng",
         "Payout-title": "Trả thưởng",
         "paytable": "Trả thưởng",
